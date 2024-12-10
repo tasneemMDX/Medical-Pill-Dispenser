@@ -24,12 +24,3 @@
 ## **Hardware**
 - **Arduino UNO R4**, **Stepper Motor**, **IR Sensor**, **DHT22 Sensor**, **MP3 Module**, **LCD Display**, **LED Light** ,**LCD SCREEN**,**Resistor 220 ohm**,**GY-906 Non-Contact Precision Thermometer Module**.
 
----
-
-## **Setup**
-1. Upload code using the Arduino IDE.
-2. Configure WiFi and Blynk settings.
-3. Connect hardware as per the wiring diagram.
-
----
-
