@@ -33,4 +33,3 @@
 
 ---
 
-**Thank you for choosing MedHub for smarter medication management!**
